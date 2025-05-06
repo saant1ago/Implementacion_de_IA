@@ -32,3 +32,13 @@ source venv/bin/activate  # en Windows: venv\Scripts\activate
 
 # Instala las dependencias
 pip install -r requirements.txt
+
+```
+
+## 📁 Imágenes
+- Aprendizaje Supervisado
+<img width="1002" alt="Image" src="https://github.com/user-attachments/assets/111ad0c2-c967-4752-91c6-bd3ec6d5f5f7" />
+<img width="1002" alt="Image" src="https://github.com/user-attachments/assets/8e257ccd-e4e6-49df-87a6-ad417baa88f7" />
+<img width="1002" alt="Image" src="https://github.com/user-attachments/assets/f04d571d-77bf-4d91-8672-f9a8ecac5a2a" />
+
+
