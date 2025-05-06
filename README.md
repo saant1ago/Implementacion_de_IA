@@ -4,7 +4,7 @@ Este proyecto explora técnicas de aprendizaje automático aplicando tanto model
 
 ## 📁 Contenido
 
-- **Aprendizaje Supervisado.ipynb** → Modelos supervisados como regresión, clasificación y ajuste de hiperparámetros.
+- **Aprendizaje Supervisado.ipynb** → Predicción de obesidad mediante el uso de algortimos de aprendizaje supervisado.
 - **Aprendizaje No-Supervisado.ipynb** → Modelos no supervisados como clustering (k-means, DBSCAN) y reducción de dimensionalidad (PCA).
 
 ## 🚀 Tecnologías utilizadas
